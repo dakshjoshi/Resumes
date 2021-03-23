@@ -1,12 +1,13 @@
-body {
+/* body {
   background-color: #3d3d3d;
-}
+} */
 .bodyResume {
   background-color: #3d3d3d;
   color: #ece9e1;
-  width: 60%;
+  width: 45%;
   margin: auto;
   border: 1px #ece9e1 solid;
+  padding: 1%;
   padding-bottom: 0.1%;
 }
 .imgContainer {
@@ -72,9 +73,10 @@ img {
 }
 
 .right {
+  margin-left: 10px;
   width: 40%;
   text-align: left;
-  padding-left: 1%;
+  padding-left: 2%;
   border-left: 1px #ece9e1 solid;
 }
 h4,
